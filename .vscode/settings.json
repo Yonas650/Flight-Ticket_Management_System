@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "locale": "cpp",
+        "streambuf": "cpp",
+        "__threading_support": "cpp",
+        "bitset": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "fstream": "cpp",
+        "regex": "cpp",
+        "__bit_reference": "cpp",
+        "chrono": "cpp",
+        "deque": "cpp",
+        "__memory": "cpp",
+        "filesystem": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp"
+    }
+}
